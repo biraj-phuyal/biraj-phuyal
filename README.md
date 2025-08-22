@@ -38,6 +38,7 @@ I'm a Software Developer and 42 school's student.
 - **Languages**:
   <br><br>
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
+  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
   ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp;
 
 - **Front-End Development**:
