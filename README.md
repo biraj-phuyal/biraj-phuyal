@@ -1,6 +1,6 @@
 ### 👋 Hello, World!
 
-I'm a Full stack Engineer and Computer Science student.
+I'm a Software Developer and 42 school's student.
 
 ```json
 {
