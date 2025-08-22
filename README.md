@@ -12,10 +12,6 @@ I'm a Software Developer and 42 school's student.
             {
                 "name": "So-Long",
                 "description": "A 2D game using mlx libary"
-            },
-            {
-                "name": "Webserv",
-                "description": "Creating a nginx clone in C++"
             }
         ]
     }
