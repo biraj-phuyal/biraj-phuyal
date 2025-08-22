@@ -8,7 +8,7 @@ I'm a Software Developer and 42 school's student.
         "name": "Biraj Phuyal"
     },
     "status": {
-        "currentProjects": [
+        "currentProject": [
             {
                 "name": "So-Long",
                 "description": "A 2D game using mlx libary"
