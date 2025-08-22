@@ -39,7 +39,6 @@ I'm a Software Developer and 42 school's student.
   <br><br>
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
-  ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp;
 
 - **Front-End Development**:
   <br><br>
@@ -51,8 +50,8 @@ I'm a Software Developer and 42 school's student.
 
 - **Back-End Development**:
   <br><br>
-  ![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) &nbsp;
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) &nbsp;
+  ![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white) &nbsp;
 <!---
 - **Cloud Hosting**:
   <br><br>
