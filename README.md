@@ -1,17 +1,15 @@
-### 👋 Hello, World!
+### 👋 Hey Guys!
 
-I'm a Software Developer and 42 school's student.
+I'm a Computer Science student.
 
 ```json
 {
-    "info": {
-        "name": "Biraj Phuyal"
-    },
+    "name": { "Biraj Phuyal" }
     "status": {
         "currentProject": [
             {
                 "name": "So-Long",
-                "description": "A 2D game using mlx libary"
+                "description": "A 2D game built with MinilibX"
             }
         ]
     }
@@ -19,11 +17,11 @@ I'm a Software Developer and 42 school's student.
 ```
 
 <details>
-  <summary>Uhhh, what?</summary>
+  <summary>Details</summary>
 
-  - 👨‍💻 **Current Projects**: I’m currently doing so-long of 42 Common Core, which involves 2D graphics rendering.
-  - 📚 **Learning**: Right now, I'm learning about Docker containers, Nextjs, react, nodejs and ruby on rails.
-  - ⚡ **Fun Fact**: I like to play chess
+  - 👨‍💻 **Current Project**: I’m currently doing so-long of 42 Common Core, which involves 2D graphics rendering.
+  - 📚 **Learning**: Right now, I'm learning about Docker, next.js, react, node.js and express.
+  - ⚡ **Fun Fact**: I have many creative hobbies
 
 </details>
 
@@ -77,10 +75,10 @@ I'm a Software Developer and 42 school's student.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biraj-phuyal&show_icons=true&theme=dark&locale=en&layout=compact" alt="biraj-phuyal" />
 </p>
 
-## <h3 align="center">Connect  🤝</h3>
+## <h3 align="center">Connect 🤝</h3>
 
 <p align="center">
     <div align="center" class="icons-social">
-        <a target="_blank" href="https://www.linkedin.com/in/biraj-phuyal/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a target="_blank" href="https://www.linkedin.com/in/biraj-phuyal-4a6205379/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     </div>
 </p>
