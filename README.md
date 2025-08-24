@@ -1,6 +1,6 @@
 ### 👋 Hey Guys
 
-I'm a Computer Science student.
+I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
 
 ```json
 {
