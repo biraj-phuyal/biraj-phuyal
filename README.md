@@ -1,4 +1,4 @@
-### 👋 Hey Guys!
+### 👋 Hey Guys
 
 I'm a Computer Science student.
 
@@ -56,11 +56,6 @@ I'm a Computer Science student.
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
-
-- **Extras**:
-  <br><br>
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) &nbsp;
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) &nbsp;
 
 </p>
 
