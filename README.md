@@ -5,11 +5,15 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
 ```json
 {
     "name": "Biraj Phuyal"
-    "currentProject":
-    {
-        "name": "So-Long",
-        "description": "A 2D game built with MinilibX"
-    }
+    "currentProjects":
+        {
+            "name": "So-Long",
+            "description": "A 2D game built with MinilibX"
+        },
+        {
+            "name": "Push-swap",
+            "description": "Algorithm based project"
+        }
 }
 ```
 
