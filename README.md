@@ -5,11 +5,15 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
 ```json
 {
     "name": "Biraj Phuyal"
-    "currentProject":
-    {
-        "name": "Philosophers",
-        "description": "Dining philosophers problem"
-    }
+    "currentProjects":
+        {
+            "name": "Philosophers",
+            "description": "Dining philosophers problem"
+        },
+        {
+            "name": "Minishell",
+            "description": "Recreating the bash functionality"
+        };
 }
 ```
 
