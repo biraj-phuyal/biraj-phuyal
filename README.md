@@ -13,7 +13,7 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
         {
             "name": "Minishell",
             "description": "Recreating the bash functionality"
-        };
+        }
 }
 ```
 
