@@ -70,7 +70,7 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biraj-phuyal&show_icons=true&theme=dark&locale=en&layout=compact" alt="biraj-phuyal" />
 </p>
 --->
-## <h3 align="center">Connect 🤝</h3>
+<h3 align="center">Connect 🤝</h3>
 
 <p align="center">
     <div align="center" class="icons-social">
