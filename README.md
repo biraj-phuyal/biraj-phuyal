@@ -65,11 +65,11 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=biraj-phuyal&theme=dark&show_icons=true&count_private=true" />
 </p>
 
-
+<!---
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biraj-phuyal&show_icons=true&theme=dark&locale=en&layout=compact" alt="biraj-phuyal" />
 </p>
-
+--->
 ## <h3 align="center">Connect 🤝</h3>
 
 <p align="center">
