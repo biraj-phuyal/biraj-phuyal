@@ -7,8 +7,8 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
     "name": "Biraj Phuyal"
     "currentProject":
         {
-            "name": "Philosophers",
-            "description": "Dining philosophers problem"
+            "name": "Cub3D",
+            "description": "A recreation of the wolfenstein 3D"
         }
 }
 ```
@@ -16,7 +16,7 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
 <details>
   <summary>Details</summary>
 
-  - 👨‍💻 **Current Project**: I’m currently doing so-long of 42 Common Core, which involves 2D graphics rendering.
+  - 👨‍💻 **Current Project**: I’m currently doing cub3D of 42 Common Core, which involves 3D graphics rendering from a 2D map.
   - 📚 **Learning**: Right now, I'm learning about Docker, next.js, react, node.js and express.
   - ⚡ **Fun Fact**: I have many creative hobbies
 
