@@ -30,6 +30,7 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
   <br><br>
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;
 
 - **Front-End Development**:
   <br><br>
