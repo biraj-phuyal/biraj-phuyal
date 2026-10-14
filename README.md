@@ -7,8 +7,8 @@ I'm a 42 Lisboa's student and a Full-Stack Web Enthusiast.
     "name": "Biraj Phuyal"
     "currentProject":
         {
-            "name": "Cub3D",
-            "description": "A recreation of the wolfenstein 3D"
+            "name": "Webserver",
+            "description": "Building an NGINX-inspired HTTP/1.1 web server"
         }
 }
 ```
